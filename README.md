@@ -1,6 +1,6 @@
 <h1>Projeto Dev Sorteio</h1>
 <br>
-<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>.Fiz uma pequena alteração, colocando o input "resultado" que não tem no projeto original.</h2>
+<h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>. Fiz uma pequena alteração, colocando o input "resultado" que não tem no projeto original.</h2>
 <br>
 <p>Um sorteador de números. Você coloca 2 números no "entre" e tembém no "e", assim o número sorteado aparecerá em "resultado". </p>
 <h3>Tecnologias utilizadas:</h3>
