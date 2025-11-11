@@ -7,4 +7,4 @@
 <p>- HTML5</p>
 <p>- CSS3</p>
 <p>- JavaScript</p>
-<img width="1920" height="867" alt="Dev Sorteio" src="https://github.com/user-attachments/assets/95020768-53f2-46c3-a391-e0d6e5fa1e9d" />
+<img src="https://github.com/user-attachments/assets/95020768-53f2-46c3-a391-e0d6e5fa1e9d" />
